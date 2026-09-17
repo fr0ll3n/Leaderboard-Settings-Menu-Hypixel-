@@ -6,4 +6,5 @@ players (All, Friends, Best Friends and Guild members) - (in development still),
 Text allignment (Centered and Blocked).
 Version - 1.8.8/1.8.9;
 server - Spigot;
-Dependecies: ProtocolLib, PlaceholderAPI and AjlbGuildsBridge (You check it on my profile's repository)!
+Dependecies: ProtocolLib, PlaceholderAPI, AjlbGuildsBridge and (You check it on my profile's repository)!
+For now i am using DecentHolograms and the luckperms permissions to have a leaderboard but i am working to a separete leaderboard plugin and soon i will post here (it will still use luckperms permissions probably xD)!
