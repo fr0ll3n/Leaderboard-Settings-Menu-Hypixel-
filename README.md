@@ -1,6 +1,6 @@
 # LeaderboardSettings
 
-Hypixel-style Bed Wars leaderboard settings menu plugin.
+Hypixel-style Bed Wars (can be for SkyWars, Build Battle etc.) leaderboard settings menu plugin.
 
 **Version:** 1.0.12  
 **Author:** fr0ll3n  
