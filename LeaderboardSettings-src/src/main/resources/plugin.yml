@@ -1,0 +1,18 @@
+name: LeaderboardSettings
+version: 1.0.12
+main: dev.lbsettings.LeaderboardSettingsPlugin
+description: Hypixel-style Bed Wars leaderboard settings menu
+author: Grok
+api-version: 1.13
+softdepend:
+  - LuckPerms
+  - PlaceholderAPI
+commands:
+  lbsettings:
+    description: Open the leaderboard settings menu
+    usage: /lbsettings
+    aliases: [lbsetting, leaderboardsettings, lbs]
+permissions:
+  leaderboardsettings.use:
+    description: Open the leaderboard settings menu
+    default: true

@@ -1,10 +1,18 @@
-The Hypixel Leaderboard Settings is a bukkit plugin that opens a menu with settings for 
-modes (for example bedwars Solo, Doubles, etc.), 
-time (Daily, Weekly, Monthly and Lifetime), 
-positions (All and Players arround you), 
-players (All, Friends, Best Friends and Guild members) - (in development still), 
-Text allignment (Centered and Blocked).
-Version - 1.8.8/1.8.9;
-server - Spigot;
-Dependecies: ProtocolLib, PlaceholderAPI, AjlbGuildsBridge and (You check it on my profile's repository)!
-For now i am using DecentHolograms and the luckperms permissions to have a leaderboard but i am working to a separete leaderboard plugin and soon i will post here (it will still use luckperms permissions probably xD)!
+# LeaderboardSettings
+
+Hypixel-style Bed Wars leaderboard settings menu plugin.
+
+**Version:** 1.0.12  
+**Author:** Grok  
+**API:** 1.13+
+
+## Features
+- Settings menu via `/lbsettings` (aliases: `lbsetting`, `leaderboardsettings`, `lbs`)
+- PlaceholderAPI expansion for alignment (`%lbalign_*%`)
+- Soft-depends: LuckPerms, PlaceholderAPI
+
+## Source
+Decompiled from the provided JAR using CFR 0.152.
+
+## Building
+This is a standard Bukkit/Spigot plugin. Use Maven or Gradle with Spigot/Paper API dependency.
